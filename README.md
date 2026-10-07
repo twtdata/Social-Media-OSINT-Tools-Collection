@@ -600,6 +600,10 @@ Search by location, relationships, and more!.
     - Link: [AddMeS](https://addmes.io/)
     - Description: The 'Add Me' directory of Snapchat users on web.
 
+13. **SnapDataHub**
+    - Link: [SnapDataHub](https://snapdatahub.com)
+    - Description: Public Snapchat creator analytics: subscriber counts, Spotlight views and engagement for any public profile, plus a daily list of the fastest-growing creators.
+
 ## WhatsApp
 
 1. **checkwa**
